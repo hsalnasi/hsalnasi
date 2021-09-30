@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hsalnasi\Haifa 
-- 👀 I’m interested in computer science and software engineering in particular.
-- 🌱 I’m currently learning python and HTML 
+- 👀 CS/SE freshmen student but currently taking a break .
+- 🌱 currently foucsing on full stack engineering .
 - 💞️ I’m looking to collaborate on a begginers projects.
 - 📫 iihaifouz@gmail.com.. 
 
