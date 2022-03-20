@@ -1,5 +1,5 @@
-##                  ** Hazel AKA Haifa 🖐️ ** .
-### if you're here , than you're witnessing the beginnings of something above than ** outstanding ** .
+## *Hazel AKA Haifa* 🖐️  .
+#### if you're here , than you're witnessing the beginnings of something above than  outstanding  .
 
 
 
