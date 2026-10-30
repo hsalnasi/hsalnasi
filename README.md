@@ -18,9 +18,9 @@
 
 ## > whoami
 
-CS student at **Dar Al-Hekma University** who loves following a question until it becomes something I can try.
+CS student I enjoy solving problems. The annoying it gets, the happier I am.
 
-I'm curious about software, AI, and electronics, especially where they overlap. I'd rather keep learning, trying, failing, and getting better than settle where I am.
+I'm curious about software, AI, and electronics, especially where they overlap.
 
 <img src="./divider.svg" width="100%" alt="" />
 
@@ -28,7 +28,7 @@ I'm curious about software, AI, and electronics, especially where they overlap. 
 
 | | Topic | Where I am | Goal |
 |---|---|---|---|
-| 🧠 | **Machine Learning** | coursework, scikit-learn & TensorFlow | ship 3 end-to-end projects |
+| 🧠 | **Machine Learning** | coursework, scikit-learn & TensorFlow 
 | 🌐 | **Web Development** | HTML, CSS, JavaScript foundations | clean full-stack apps without bloat |
 | ⚔️ | **Competitive Programming** | DSA roadmap | a solid baseline for IEEE Xtreme |
 | 🔌 | **Electronics & Arduino** | day 1 basics | bridge ML and hardware |
@@ -38,7 +38,7 @@ I'm curious about software, AI, and electronics, especially where they overlap. 
 
 ## > built_so_far
 
-- **Fazaa (فزعة)**: a student-to-student platform that matches students with mentors whose approach suits how they learn. Built at Twaiqathon.
+- **Fazaa (فزعة)**: a student-to-student platform that matches students with mentors whose approach suits how they learn. Built at Mayda Hackathon.
 - **Anime Dataset Analysis & EDA**: cleaning, exploring, and visualizing a large dataset. My completed personal project.
 - **Hack the Future**: a hackathon prototype built under real constraints, with a team.
 - **Heroz**: bug fixes and deep linking in Flutter on a production codebase, plus an AI & automation internship where I learned n8n workflows.
