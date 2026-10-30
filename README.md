@@ -24,33 +24,16 @@ I'm curious about software, AI, and electronics, especially where they overlap.
 
 <img src="./divider.svg" width="100%" alt="" />
 
-## > currently_learning
 
-| | Topic | Where I am | Goal |
-|---|---|---|---|
-| 🧠 | **Machine Learning** | coursework, scikit-learn & TensorFlow 
-| 🌐 | **Web Development** | HTML, CSS, JavaScript foundations | clean full-stack apps without bloat |
-| ⚔️ | **Competitive Programming** | DSA roadmap | a solid baseline for IEEE Xtreme |
-| 🔌 | **Electronics & Arduino** | day 1 basics | bridge ML and hardware |
-| 🀄 | **Mandarin (中文)** | for fun | just because I enjoy it |
 
 <img src="./divider.svg" width="100%" alt="" />
 
-## > built_so_far
-
-- **Fazaa (فزعة)**: a student-to-student platform that matches students with mentors whose approach suits how they learn. Built at Mayda Hackathon.
-- **Anime Dataset Analysis & EDA**: cleaning, exploring, and visualizing a large dataset. My completed personal project.
-- **Hack the Future**: a hackathon prototype built under real constraints, with a team.
-- **Heroz**: bug fixes and deep linking in Flutter on a production codebase, plus an AI & automation internship where I learned n8n workflows.
-- **IEEE Student Branch @ DAH**: Vice President, running workshops and shared learning for the student tech community.
-
-<img src="./divider.svg" width="100%" alt="" />
 
 ## > stats
 
 <div align="center">
-  <img height="160" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=hsalnasi&show_icons=true&hide_border=true&bg_color=0a0d1c&title_color=4cc9f0&text_color=e8edff&icon_color=f72585" />
-  <img height="160" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsalnasi&layout=compact&hide_border=true&bg_color=0a0d1c&title_color=4cc9f0&text_color=e8edff" />
+    <img height="160" alt="GitHub stats" src="./profile/stats.svg" />
+  <img height="160" alt="Top languages" src="./profile/top-langs.svg" />
 </div>
 
 <img src="./divider.svg" width="100%" alt="" />
